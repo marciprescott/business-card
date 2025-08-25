@@ -1,1 +1,1 @@
-This is a web app that hosts a virtual business card.
+A little web app for a virtual busines card.  Mostly CSS practice. 
