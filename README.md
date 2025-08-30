@@ -1,1 +1,1 @@
-A little web app for a virtual busines card.  Mostly CSS practice. 
+CSS practice - a little digital business card. 
