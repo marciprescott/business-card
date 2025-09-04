@@ -1,1 +1,1 @@
-CSS practice - a little digital business card. 
+First css project a digital business card. 
