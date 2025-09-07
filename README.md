@@ -1,1 +1,1 @@
-First css project a digital business card. 
+Digital business card for css practice.  
